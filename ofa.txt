@@ -1,0 +1,9 @@
+1.	Add client as opportunity. Move to Client.
+2.	Create new UCC : - It will verify kyc done or not. 
+3.	Enter client’s details. Like dob, nominee, occupation, address
+4.	Verify email id, country, net banking, salary, income, place of birth etc.
+5.	Verify fill details.
+6.	Cheque & signature. Client transaction
+7.	E-mandate email verification
+8.	“CAMSKRA” website for kyc verification. (To check if client verified or not)
+
